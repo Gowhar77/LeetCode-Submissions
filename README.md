@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Gowhar77/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gowhar77/LeetCode-Submissions/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gowhar77/LeetCode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
